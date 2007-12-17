@@ -19,7 +19,6 @@ BuildRequires:	xmms-devel >= 1.2.4
 BuildRequires:	libgdk-pixbuf-devel
 BuildRequires:	id3lib-devel
 BuildRequires:	libxml2-devel
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 
 %description
 CoverViewer scans your directories for images and displays them while
