@@ -2,7 +2,7 @@
 %define oname   xmms-coverviewerxp
 %define version	0.12
 %define prerel rc2
-%define release	%mkrel 0.1%prerel.1
+%define release	%mkrel 0.1%prerel.2
 
 Name:		%{name}
 Version:	%{version}
