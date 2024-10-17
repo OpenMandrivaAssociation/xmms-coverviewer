@@ -11,7 +11,7 @@ Summary:	XMMS plugin that displays images related to the files being played
 License:	GPL
 Group: 		Sound
 Source:		http://prdownloads.sourceforge.net/coverviewer/%{oname}-cvs-%prerel.tar.bz2
-URL:		http://coverviewer.sourceforge.net/
+URL:		https://coverviewer.sourceforge.net/
 Requires:	xmms >= 1.2.4
 #gw the script for fetching the covers needs this
 Requires: 	pygtk2.0
